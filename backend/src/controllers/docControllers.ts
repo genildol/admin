@@ -1,4 +1,3 @@
-
 import { NextFunction, Request, Response } from 'express';
 import { prisma } from '../../prisma/client';
 
@@ -17,7 +16,7 @@ export const createDoc = async (req: Request, res: Response) => {
         content,
       }
     });
-    return res.status(2001).json(newDoc);
+    return res.status(201).json(newDoc);
   } catch (err) {
     next(err);
   }
