@@ -3,13 +3,13 @@
 </div>
    <h3>Sistema para cadastro, autenticação e gerenciamento seguro de usuários e documentos, com controle de acesso, histórico e integração com banco de dados PostgreSQL via Prisma e API REST com Express.js.</h3>
 
-### 🔐 Autenticação e Segurança
+#### 🔐 Autenticação e Segurança
 
-### 📄 Gestão de Documentos
+#### 📄 Gestão de Documentos
 
-### 👤 Gestão de Usuários
+#### 👤 Gestão de Usuários
 
-### 📊 Painel Administrativo
+#### 📊 Painel Administrativo
 
 🔧 Outras Integrações
 
